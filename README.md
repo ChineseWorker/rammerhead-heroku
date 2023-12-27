@@ -18,9 +18,9 @@ https://demo-opensource.rammerhead.org
 
 ## Quick Deploy
 
-<a href="https://replit.com/github/EnderKingJ/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/replit.svg"></a>
-<a href="https://heroku.com/deploy/?template=https://github.com/EnderKingJ/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg"></a>
-<a href="https://glitch.com/edit/#!/import/github/EnderKingJ/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/glitch.svg"></a>
+<a href="https://replit.com/github/ChineseWorker/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/replit.svg"></a>
+<a href="https://heroku.com/deploy/?template=https://github.com/ChineseWorker/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg"></a>
+<a href="https://glitch.com/edit/#!/import/github/ChineseWorker/rammerhead-heroku"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/official/glitch.svg"></a>
 
 ## Supporting me and contributing
 
